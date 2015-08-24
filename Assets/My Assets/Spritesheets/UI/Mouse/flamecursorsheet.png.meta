@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 5aeca010654cc0a45af3e1dfd7a1bf63
+timeCreated: 1440333206
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flamecursorsheet_0
+    21300002: flamecursorsheet_1
+    21300004: flamecursorsheet_2
+    21300006: flamecursorsheet_3
+    21300008: flamecursorsheet_4
+    21300010: flamecursorsheet_5
+    21300012: flamecursorsheet_6
+    21300014: flamecursorsheet_7
+    21300016: flamecursorsheet_8
+    21300018: flamecursorsheet_9
+    21300020: flamecursorsheet_10
+    21300022: flamecursorsheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flamecursorsheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .32307145, y: .563694239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 249
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .308917314, y: .507077157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 249
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .294763029, y: .429228634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .308917165, y: .407997042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 166
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .35138014, y: .393842757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 166
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .422151506, y: .386765629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .379688561, y: .400920004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .330148727, y: .400920004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 83
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .330148727, y: .407997131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .379688561, y: .372611493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .415074438, y: .415074348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: flamecursorsheet_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: .372611552, y: .450460047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: cup
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 3b974a20d53264644a8593e0fc2b9d18
+timeCreated: 1440254532
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cup_Gun_Shoot_0
+    21300002: cup_Gun_Shoot_1
+    21300004: cup_Gun_Shoot_2
+    21300006: cup_Gun_Shoot_3
+    21300008: cup_Gun_Shoot_4
+    21300010: cup_Gun_Shoot_5
+    21300012: cup_Gun_Shoot_6
+    21300014: cup_Gun_Shoot_7
+    21300016: cup_Gun_Shoot_8
+    21300018: cup_Gun_Shoot_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cup_Gun_Shoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .100277551, y: .505307853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 178
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .113904513, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 178
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .122989215, y: .494692177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 178
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .136616051, y: .494692177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .100277551, y: .489384353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 89
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .109362237, y: .494692177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 89
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .122989215, y: .494692177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 89
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .136616051, y: .489384353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .100277551, y: .489384204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Gun_Shoot_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 89
+      alignment: 9
+      pivot: {x: .104819961, y: .478768468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: cup
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

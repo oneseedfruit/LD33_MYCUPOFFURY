@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 130dac13fc677e446b283a711686f8f9
+timeCreated: 1440255552
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cup_Fire_FlyingFire_0
+    21300002: cup_Fire_FlyingFire_1
+    21300004: cup_Fire_FlyingFire_2
+    21300006: cup_Fire_FlyingFire_3
+    21300008: cup_Fire_FlyingFire_4
+    21300010: cup_Fire_FlyingFire_5
+    21300012: cup_Fire_FlyingFire_7
+    21300014: cup_Fire_FlyingFire_8
+    21300016: cup_Fire_FlyingFire_9
+    21300018: cup_Fire_FlyingFire_12
+    21300020: cup_Fire_FlyingFire_13
+    21300022: cup_Fire_FlyingFire_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cup_Fire_FlyingFire_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 758
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 765
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 773
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 519
+        width: 119
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 486
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 493
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 267
+        width: 154
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 279
+        width: 162
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 263
+        width: 142
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 50
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 61
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cup_Fire_FlyingFire_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 65
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: cup
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 2405ca8908c7ae34f9d15461163e2613
+timeCreated: 1440258064
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: victim_walk_Spritesheet_0
+    21300002: victim_walk_Spritesheet_1
+    21300004: victim_walk_Spritesheet_2
+    21300006: victim_walk_Spritesheet_3
+    21300008: victim_walk_Spritesheet_4
+    21300010: victim_walk_Spritesheet_5
+    21300012: victim_walk_Spritesheet_6
+    21300014: victim_walk_Spritesheet_7
+    21300016: victim_walk_Spritesheet_8
+    21300018: victim_walk_Spritesheet_9
+    21300020: victim_walk_Spritesheet_10
+    21300022: victim_walk_Spritesheet_11
+    21300024: victim_walk_Spritesheet_12
+    21300026: victim_walk_Spritesheet_13
+    21300028: victim_walk_Spritesheet_14
+    21300030: victim_walk_Spritesheet_15
+    21300032: victim_walk_Spritesheet_16
+    21300034: victim_walk_Spritesheet_17
+    21300036: victim_walk_Spritesheet_18
+    21300038: victim_walk_Spritesheet_19
+    21300040: victim_walk_Spritesheet_20
+    21300042: victim_walk_Spritesheet_21
+    21300044: victim_walk_Spritesheet_22
+    21300046: victim_walk_Spritesheet_23
+    21300048: victim_walk_Spritesheet_24
+    21300050: victim_walk_Spritesheet_25
+    21300052: victim_walk_Spritesheet_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: victim_walk_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 344
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 344
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 344
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 344
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 344
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 258
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 258
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 258
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 258
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 258
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 172
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 172
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 172
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 172
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 86
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 86
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 86
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 86
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 86
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_walk_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: cup
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

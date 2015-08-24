@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 7b85f6e52aeaeb54e8199f13e11fa011
+timeCreated: 1440258244
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: victim_die_Spritesheet_0
+    21300002: victim_die_Spritesheet_1
+    21300004: victim_die_Spritesheet_2
+    21300006: victim_die_Spritesheet_3
+    21300008: victim_die_Spritesheet_4
+    21300010: victim_die_Spritesheet_5
+    21300012: victim_die_Spritesheet_6
+    21300014: victim_die_Spritesheet_7
+    21300016: victim_die_Spritesheet_8
+    21300018: victim_die_Spritesheet_9
+    21300020: victim_die_Spritesheet_10
+    21300022: victim_die_Spritesheet_11
+    21300024: victim_die_Spritesheet_12
+    21300026: victim_die_Spritesheet_13
+    21300028: victim_die_Spritesheet_14
+    21300030: victim_die_Spritesheet_15
+    21300032: victim_die_Spritesheet_16
+    21300034: victim_die_Spritesheet_17
+    21300036: victim_die_Spritesheet_18
+    21300038: victim_die_Spritesheet_19
+    21300040: victim_die_Spritesheet_20
+    21300042: victim_die_Spritesheet_21
+    21300044: victim_die_Spritesheet_22
+    21300046: victim_die_Spritesheet_23
+    21300048: victim_die_Spritesheet_24
+    21300050: victim_die_Spritesheet_25
+    21300052: victim_die_Spritesheet_26
+    21300054: victim_die_Spritesheet_27
+    21300056: victim_die_Spritesheet_28
+    21300058: victim_die_Spritesheet_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: victim_die_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 592
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 592
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 592
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 592
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 592
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 444
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 444
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 444
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 444
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 444
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 296
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 296
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 296
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 296
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 296
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 148
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 148
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 148
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 148
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: victim_die_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: cup
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
