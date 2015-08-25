@@ -33,9 +33,6 @@ public class GameStateManager : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-        Debug.Log("Manlings victimzied: " + manlingsVictimized);
-        Debug.Log("Huts destroyed: " + hutsDestroyed);
-
         switch (GameState)
         {
             case StateEnum.Play:                
@@ -47,10 +44,16 @@ public class GameStateManager : MonoBehaviour
                 break;
 
             case StateEnum.Menu:
+                if (!isGameInProgress)
+                {
+                    hutsDestroyed = 0;
+                    manlingsVictimized = 0;
+                }
                 Time.timeScale = 0;
                 break;
 
             case StateEnum.GameOver:
+                isGameInProgress = false;
                 Time.timeScale = 0;
                 break;
 
@@ -87,9 +90,7 @@ public class GameStateManager : MonoBehaviour
         if (pauseKeyPressed)
         {            
             Time.timeScale = 0;
-            GameState = StateEnum.Pause;
-            
-            Debug.Log("Paused!");            
+            GameState = StateEnum.Pause;                 
         }
 
         yield break;

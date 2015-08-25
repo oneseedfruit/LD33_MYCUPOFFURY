@@ -12,9 +12,14 @@ GameObject:
   - 50: {fileID: 5015634}
   - 114: {fileID: 11447330}
   - 108: {fileID: 10895426}
-  - 58: {fileID: 5817444}
   - 58: {fileID: 5872858}
   - 58: {fileID: 5880974}
+  - 58: {fileID: 5842958}
+  - 58: {fileID: 5873178}
+  - 68: {fileID: 6808404}
+  - 68: {fileID: 6836848}
+  - 68: {fileID: 6810814}
+  - 68: {fileID: 6852144}
   m_Layer: 0
   m_Name: Cuppy
   m_TagString: Player
@@ -226,16 +231,16 @@ Rigidbody2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 110836}
-  m_Mass: 20
+  m_Mass: 5
   m_LinearDrag: 0
-  m_AngularDrag: 15
+  m_AngularDrag: 70
   m_GravityScale: 1
   m_IsKinematic: 0
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!58 &5817444
+--- !u!58 &5842958
 CircleCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -245,9 +250,9 @@ CircleCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_Offset: {x: 0, y: .870000005}
+  m_Offset: {x: -.328000009, y: .379999995}
   serializedVersion: 2
-  m_Radius: .686431885
+  m_Radius: .409480095
 --- !u!58 &5872858
 CircleCollider2D:
   m_ObjectHideFlags: 1
@@ -260,7 +265,20 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_Offset: {x: -.230000004, y: .879999995}
   serializedVersion: 2
-  m_Radius: .55535984
+  m_Radius: .512428284
+--- !u!58 &5873178
+CircleCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110836}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: .370999992, y: .379999995}
+  serializedVersion: 2
+  m_Radius: .409480095
 --- !u!58 &5880974
 CircleCollider2D:
   m_ObjectHideFlags: 1
@@ -273,7 +291,7 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_Offset: {x: .230000004, y: .810000002}
   serializedVersion: 2
-  m_Radius: .610719621
+  m_Radius: .56114006
 --- !u!61 &6182800
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -284,9 +302,65 @@ BoxCollider2D:
   m_Material: {fileID: 6200000, guid: c0f90a7ec416da444bc599354b4fb389, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_Offset: {x: .0212455094, y: .709999979}
+  m_Offset: {x: .0212459564, y: .637295663}
   serializedVersion: 2
-  m_Size: {x: 1.49936128, y: 1.41999996}
+  m_Size: {x: 1.49936128, y: 1.27459133}
+--- !u!68 &6808404
+EdgeCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110836}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+  - {x: -.692011833, y: -.0207580328}
+  - {x: -.735103607, y: .150495857}
+--- !u!68 &6810814
+EdgeCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110836}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+  - {x: .798704147, y: 1.23195863}
+  - {x: .719189644, y: 1.29593539}
+--- !u!68 &6836848
+EdgeCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110836}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+  - {x: .714344978, y: -.025947541}
+  - {x: .780234337, y: .145306394}
+--- !u!68 &6852144
+EdgeCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110836}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+  - {x: -.68044281, y: 1.27993095}
+  - {x: -.743966103, y: 1.23197222}
 --- !u!82 &8201650
 AudioSource:
   m_ObjectHideFlags: 1
